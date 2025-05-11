@@ -41,8 +41,10 @@
 </div>
 
 ### Projetos de Portfólio
-[![ajvclimatiza-o](https://img.shields.io/badge/ajvclimatiza-o-%20%F0%9F%9A%80-brightgreen?style=for-the-badge)](https://fetads.github.io/ajvclimatiza-o/)
+
+[![ajvclimatiza-o](https://img.shields.io/badge/ajvclimatiza--o-%20%F0%9F%9A%80-brightgreen?style=for-the-badge)](https://fetads.github.io/ajvclimatiza-o/)
 [![Pizzaria Web TS](https://img.shields.io/badge/Pizzaria%20Web%20TS-%20%F0%9F%9A%80-brightgreen?style=for-the-badge)](https://github.com/FeTads/pizzaria-web-ts)
+
 
 ### Educação
 - 🎓 Tecnólogo em Analíse e desenvolvimento de Sistemas - IFPR. (2025)
